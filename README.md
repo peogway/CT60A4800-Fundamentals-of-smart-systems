@@ -8,7 +8,7 @@ The user enter the city name then click "Find" button". After few seconds, the i
 
 ## How to run?
 
-This requires Node.js to run, for more information: [Node.js](https://nodejs.org/en)
+This requires Node.js to run, for more information: [Node.js](https://nodejs.org/en)\n
 Download the whole repository. Then locate the correct directory, execute command `npm run dev` in the terminal.
 
 ## Demonstration
